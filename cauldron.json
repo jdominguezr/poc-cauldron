@@ -14,7 +14,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "aboutus-miniapp@0.0.1",
+                  "aboutus-miniapp@0.0.2",
                   "login-miniapp@0.0.2"
                 ],
                 "nativeDeps": [
