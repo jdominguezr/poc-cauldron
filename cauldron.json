@@ -14,7 +14,8 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "aboutus-miniapp@0.0.1"
+                  "aboutus-miniapp@0.0.1",
+                  "login-miniapp@0.0.2"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@1.5.2",

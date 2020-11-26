@@ -2905,6 +2905,15 @@ log-symbols@^2.2.0:
   dependencies:
     chalk "^2.0.1"
 
+login-miniapp@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/login-miniapp/-/login-miniapp-0.0.2.tgz#581eb472587d6e826f7f51c9f4c888fb482bdcae"
+  integrity sha512-kDEzDWeYv9miwly7BnEXg3m8QxTYJnpWltbCkQXob3+OBM8umdIWXTz9KaSlKGKPvcuZu/qGGD10M5211H9idQ==
+  dependencies:
+    ern-navigation "1.2.3"
+    react "16.13.1"
+    react-native "0.63.3"
+
 logkitty@^0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/logkitty/-/logkitty-0.7.1.tgz#8e8d62f4085a826e8d38987722570234e33c6aa7"
